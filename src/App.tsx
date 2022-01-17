@@ -16,7 +16,7 @@ export default function App() {
         👋 Hey there!
         </Header>
         <Bio>
-        I am farza and I worked on self-driving cars so that's pretty cool right? Connect your Ethereum wallet and wave at me!
+        Yo this is your boy James and here is my app...
         </Bio>
         <WaveButton onClick={wave}>
           Wave at Me
