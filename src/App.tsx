@@ -1,6 +1,5 @@
 import * as React from "react";
 import { ethers } from "ethers";
-import './App.css';
 import styled from "styled-components";
 
 export default function App() {
