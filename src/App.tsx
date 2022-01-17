@@ -1,5 +1,5 @@
 import * as React from "react";
-import { ethers } from "ethers";
+//import { ethers } from "ethers";
 import styled from "styled-components";
 
 export default function App() {
@@ -11,9 +11,7 @@ export default function App() {
   return (
     <MainContainer>
       <DataContainer>
-        <Header>
-        👋 Hey there!
-        </Header>
+        <Header><span role="img" aria-label="Wave">👋</span> Hey there!</Header>
         <Bio>
         Yo this is your boy James and here is my app...
         </Bio>
